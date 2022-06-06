@@ -33,7 +33,7 @@
     "stylelint-config-airbnb": "^0.0.0",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.19.0",
-    "typescript": "^4.3.4",
+    "typescript": "^4.7.3",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
